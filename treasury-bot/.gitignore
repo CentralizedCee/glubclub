@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+
+# NOTE: whether state/ and output/ belong in git depends on the hosting
+# decision below (README > "Persisting state across runs"). Left tracked
+# by default so `git status` makes the tradeoff visible rather than hiding
+# it behind a blanket ignore.

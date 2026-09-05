@@ -1,0 +1,14 @@
+{
+  "safeAddress": null,
+  "owners": [],
+  "threshold": null,
+  "holdings": [],
+  "recentTransactions": [],
+  "discrepancies": [],
+  "lastReconciled": "2026-09-05T18:47:57.959Z",
+  "network": {
+    "chainId": 421614,
+    "isPlaceholderChain": true
+  },
+  "disclaimer": "[PLACEHOLDER COPY] This is a read-only view of company reserves on testnet, not a holder statement or a claim on treasury performance."
+}
